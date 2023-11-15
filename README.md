@@ -8,13 +8,14 @@ I understand very well the world of technology, like Cloud Computing, DevOps, an
 
 ## 🔭 Technologies & Tools & Things I like
 
+- [x] [Açaí](https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_na_tigela)
 - [x] [Java](https://www.java.com/)
 - [x] [Python](https://www.python.org/)
 - [x] [JavaScript](https://www.javascript.com/)
 - [x] [Vue.js](https://vuejs.org/)
 - [x] [Nuxt.js](https://nuxtjs.org/)
 - [x] Projects that are fully automated 
-- [x] Automated everything for Projects
+- [x] Automate everything in Projects
 - [x] [Docker](https://www.docker.com/)
 - [x] [JetBrains](https://www.jetbrains.com/)
 - [x] [ShapeUp](https://basecamp.com/shapeup) (I don't like scrum but I know how to use/work with it)
