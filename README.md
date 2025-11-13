@@ -4,7 +4,7 @@ I'm Anderson Vaz, a software engineer with 20+ years of experience in the indust
 
 Solid knowledge design patters, clean code, algorithms, data structures and overall best practices for systems design.
 
-The tools that I solid knowledge includes Java and Python and their ecosystem, libraries, frameworks, and evolution.
+I have solid knowledge in Java and Python and their ecosystem, main libraries and frameworks, and in their evolution. Java I started using from version 1.3, Python from version 2.7 and 3.x and that bit of chaotic transition. 
 
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/andersonvaz/)
